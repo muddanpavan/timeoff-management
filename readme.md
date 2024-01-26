@@ -1,4 +1,4 @@
-# Timeo2 Management Application
+# Time Management Application
 
 This project provides infrastructure as code (IaC) scripts to deploy the Timeo2 Management application on AWS using Amazon ECS, accompanied by a CI/CD pipeline using GitHub Actions.
 
